@@ -1,0 +1,16 @@
+{
+    "users":[
+        {
+            "id":1,
+            "nome":"Danilo Filitto",
+            "email":"danilo.filitto@gmail.com",
+            "score":50
+        },
+        {
+            "id":2,
+            "nome":"Alice Filitto",
+            "email":"alice.filitto@gmail.com",
+            "score":500
+        }
+    ]
+}
