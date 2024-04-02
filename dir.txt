@@ -1,2 +1,0 @@
-LICENSE    TEXTO.txt	arquivo2.txt  dir.txt	    package-lock.json
-README.md  arquivo.txt	db.json       node_modules  package.json
